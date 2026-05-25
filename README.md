@@ -1,1 +1,3 @@
 # Capstone_2
+-------------------------------------------------------------------------------------------------------------------------
+This project analyzes sales data for the fictional company EmporiUm using Python, Pandas, NumPy, and Matplotlib within a Jupyter Notebook environment. My assigned territories for this analysis are Colorado and South Carolina, where I compare sales performance, customer activity, store rankings, product trends, and monthly revenue to identify business insights and marketing opportunities. The project also includes data cleaning, data visualization, and business recommendations supported by charts, along with a final presentation and video walkthrough of the analysis.
